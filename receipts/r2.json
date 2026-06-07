@@ -1,0 +1,642 @@
+{
+    "fields": {
+        "date": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.015417,
+                            0.277381
+                        ],
+                        [
+                            0.085061,
+                            0.278133
+                        ],
+                        [
+                            0.0851666438771427,
+                            0.26834914071844823
+                        ],
+                        [
+                            0.015522643877142717,
+                            0.2675971407184482
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "2026-06-07"
+        },
+        "time": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.323764,
+                            0.271735
+                        ],
+                        [
+                            0.323764,
+                            0.281521
+                        ],
+                        [
+                            0.358852,
+                            0.281521
+                        ],
+                        [
+                            0.358852,
+                            0.271735
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "19:48"
+        },
+        "taxes": {
+            "items": [
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "base": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": null
+                        },
+                        "rate": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": 0.21
+                        },
+                        "amount": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.320574,
+                                            0.209635
+                                        ],
+                                        [
+                                            0.320574,
+                                            0.218668
+                                        ],
+                                        [
+                                            0.360978,
+                                            0.21866799999999997
+                                        ],
+                                        [
+                                            0.360978,
+                                            0.209635
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 13.02
+                        }
+                    }
+                }
+            ],
+            "confidence": null
+        },
+        "locale": {
+            "locations": [],
+            "confidence": null,
+            "fields": {
+                "country": {
+                    "locations": [],
+                    "confidence": null,
+                    "value": "RO"
+                },
+                "currency": {
+                    "locations": [],
+                    "confidence": null,
+                    "value": "RON"
+                },
+                "language": {
+                    "locations": [
+                        {
+                            "polygon": [
+                                [
+                                    0.249335,
+                                    0.074896
+                                ],
+                                [
+                                    0.24933499999999997,
+                                    0.085435
+                                ],
+                                [
+                                    0.264221,
+                                    0.085435
+                                ],
+                                [
+                                    0.264221,
+                                    0.074896
+                                ]
+                            ],
+                            "page": 0
+                        }
+                    ],
+                    "confidence": null,
+                    "value": "ro"
+                }
+            }
+        },
+        "total_net": {
+            "locations": [],
+            "confidence": null,
+            "value": null
+        },
+        "total_tax": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.325359,
+                            0.21942
+                        ],
+                        [
+                            0.325359,
+                            0.228453
+                        ],
+                        [
+                            0.359915,
+                            0.228453
+                        ],
+                        [
+                            0.359915,
+                            0.21941999999999998
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": 13.02
+        },
+        "line_items": {
+            "items": [
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "quantity": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": 1
+                        },
+                        "unit_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.191388,
+                                            0.135115
+                                        ],
+                                        [
+                                            0.191388,
+                                            0.125329
+                                        ],
+                                        [
+                                            0.155237,
+                                            0.125329
+                                        ],
+                                        [
+                                            0.155237,
+                                            0.135115
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 25
+                        },
+                        "description": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.2360485445735441,
+                                            0.10505166269185871
+                                        ],
+                                        [
+                                            0.02084713331174412,
+                                            0.10274251622183858
+                                        ],
+                                        [
+                                            0.020618312081307683,
+                                            0.124067560932473
+                                        ],
+                                        [
+                                            0.23581972334310766,
+                                            0.12637670740249313
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": "ADITIV DE RUFE 10 CAPSULE OMIN BIANCO"
+                        },
+                        "total_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.154173,
+                                            0.156191
+                                        ],
+                                        [
+                                            0.154173,
+                                            0.1656
+                                        ],
+                                        [
+                                            0.189793,
+                                            0.1656
+                                        ],
+                                        [
+                                            0.189793,
+                                            0.156191
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 25
+                        }
+                    }
+                },
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "quantity": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": 1
+                        },
+                        "unit_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.152578,
+                                            0.186677
+                                        ],
+                                        [
+                                            0.152578,
+                                            0.19683900000000001
+                                        ],
+                                        [
+                                            0.189261,
+                                            0.19683900000000001
+                                        ],
+                                        [
+                                            0.189261,
+                                            0.186677
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 25
+                        },
+                        "description": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.019044723861761974,
+                                            0.15494512517235665
+                                        ],
+                                        [
+                                            0.23435573251645767,
+                                            0.1568251339795222
+                                        ],
+                                        [
+                                            0.2345359359210937,
+                                            0.13618705150495403
+                                        ],
+                                        [
+                                            0.019224927266398018,
+                                            0.13430704269778848
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": "ADITIV DE RUFE 10 CAPSULE OMIN BIANCO"
+                        },
+                        "total_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.347687,
+                                            0.157697
+                                        ],
+                                        [
+                                            0.3111110204371371,
+                                            0.1573155681088988
+                                        ],
+                                        [
+                                            0.311005,
+                                            0.167482
+                                        ],
+                                        [
+                                            0.3475809795628629,
+                                            0.1678634318911012
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 25
+                        }
+                    }
+                },
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "quantity": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": 1
+                        },
+                        "unit_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.30941,
+                                            0.188559
+                                        ],
+                                        [
+                                            0.30941,
+                                            0.198344
+                                        ],
+                                        [
+                                            0.346624,
+                                            0.198344
+                                        ],
+                                        [
+                                            0.346624,
+                                            0.188559
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 25
+                        },
+                        "description": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.23289932735170804,
+                                            0.16626635107527782
+                                        ],
+                                        [
+                                            0.01918072897129952,
+                                            0.16540524565900927
+                                        ],
+                                        [
+                                            0.01909755121144903,
+                                            0.18604921550964768
+                                        ],
+                                        [
+                                            0.23281614959185756,
+                                            0.18691032092591625
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": "ADITIV SPALARE RUFE OMINOBIANC BIANCO VIVO (PUDRA"
+                        },
+                        "total_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.3488542882102317,
+                                            0.1272120902966605
+                                        ],
+                                        [
+                                            0.313131,
+                                            0.126835
+                                        ],
+                                        [
+                                            0.31302771178976824,
+                                            0.13661990970333948
+                                        ],
+                                        [
+                                            0.348751,
+                                            0.136997
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 25
+                        }
+                    }
+                }
+            ],
+            "confidence": null
+        },
+        "total_amount": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.288676,
+                            0.208506
+                        ],
+                        [
+                            0.360978,
+                            0.208882
+                        ],
+                        [
+                            0.36102890421720746,
+                            0.19909349810497182
+                        ],
+                        [
+                            0.2887269042172074,
+                            0.1987174981049718
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": 75
+        },
+        "document_type": {
+            "locations": [],
+            "confidence": null,
+            "value": "expense_receipt"
+        },
+        "supplier_name": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.2519997476767893,
+                            0.0434993516352066
+                        ],
+                        [
+                            0.056353,
+                            0.0414
+                        ],
+                        [
+                            0.056227823803558945,
+                            0.053065656819723264
+                        ],
+                        [
+                            0.25187457148034825,
+                            0.05516500845492986
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "MARVI LOGISTIC"
+        },
+        "tips_gratuity": {
+            "locations": [],
+            "confidence": null,
+            "value": null
+        },
+        "receipt_number": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.3015033749147071,
+                            0.2811444436634844
+                        ],
+                        [
+                            0.243488,
+                            0.280768
+                        ],
+                        [
+                            0.24341962508529294,
+                            0.29130555633651567
+                        ],
+                        [
+                            0.301435,
+                            0.291682
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "0054"
+        },
+        "supplier_address": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.2750967517844308,
+                            0.0547011406232298
+                        ],
+                        [
+                            0.040936,
+                            0.051938
+                        ],
+                        [
+                            0.040685039458999935,
+                            0.07320550569795935
+                        ],
+                        [
+                            0.2748457912434307,
+                            0.07596864632118916
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "BUCURESTI, SOS. STEFAN CEL MARE, NR. 234, PARTER, BL. 77, SECT. 2"
+        },
+        "purchase_category": {
+            "locations": [],
+            "confidence": null,
+            "value": "miscellaneous"
+        },
+        "purchase_subcategory": {
+            "locations": [],
+            "confidence": null,
+            "value": "other"
+        },
+        "supplier_phone_number": {
+            "locations": [],
+            "confidence": null,
+            "value": null
+        },
+        "supplier_company_registration": {
+            "items": [
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "type": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": "CIF"
+                        },
+                        "number": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.2721294549925883,
+                                            0.08543456421689448
+                                        ],
+                                        [
+                                            0.329612,
+                                            0.085811
+                                        ],
+                                        [
+                                            0.3296785450074117,
+                                            0.07564943578310553
+                                        ],
+                                        [
+                                            0.272196,
+                                            0.075273
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": "25858736"
+                        }
+                    }
+                }
+            ],
+            "confidence": null
+        }
+    },
+    "raw_text": null,
+    "rag": {
+        "retrieved_document_id": null
+    }
+}

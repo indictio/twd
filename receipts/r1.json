@@ -1,0 +1,572 @@
+{
+    "fields": {
+        "date": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.291334,
+                            0.384644
+                        ],
+                        [
+                            0.171990970016224,
+                            0.38728470944289584
+                        ],
+                        [
+                            0.172249,
+                            0.398946
+                        ],
+                        [
+                            0.29159202998377604,
+                            0.39630529055710423
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "2026-06-07"
+        },
+        "time": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.381712,
+                            0.370342
+                        ],
+                        [
+                            0.13214711389383513,
+                            0.3752394916887953
+                        ],
+                        [
+                            0.132376,
+                            0.386903
+                        ],
+                        [
+                            0.3819408861061649,
+                            0.3820055083112048
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "19:55:11"
+        },
+        "taxes": {
+            "items": [
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "base": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.347156,
+                                            0.156191
+                                        ],
+                                        [
+                                            0.379585,
+                                            0.155438
+                                        ],
+                                        [
+                                            0.3793227018054488,
+                                            0.14414176075551197
+                                        ],
+                                        [
+                                            0.3468937018054489,
+                                            0.14489476075551197
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 4.09
+                        },
+                        "rate": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.349814,
+                                            0.24953
+                                        ],
+                                        [
+                                            0.383838,
+                                            0.24952999999999997
+                                        ],
+                                        [
+                                            0.383838,
+                                            0.23786199999999996
+                                        ],
+                                        [
+                                            0.349814,
+                                            0.23786199999999996
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 0.11
+                        },
+                        "amount": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": 0.41
+                        }
+                    }
+                }
+            ],
+            "confidence": null
+        },
+        "locale": {
+            "locations": [],
+            "confidence": null,
+            "fields": {
+                "country": {
+                    "locations": [],
+                    "confidence": null,
+                    "value": "RO"
+                },
+                "currency": {
+                    "locations": [
+                        {
+                            "polygon": [
+                                [
+                                    0.37799,
+                                    0.116673
+                                ],
+                                [
+                                    0.35194,
+                                    0.117049
+                                ],
+                                [
+                                    0.35214107378004833,
+                                    0.13097977651664885
+                                ],
+                                [
+                                    0.37819107378004835,
+                                    0.13060377651664884
+                                ]
+                            ],
+                            "page": 0
+                        }
+                    ],
+                    "confidence": null,
+                    "value": "Lei"
+                },
+                "language": {
+                    "locations": [],
+                    "confidence": null,
+                    "value": "ro"
+                }
+            }
+        },
+        "total_net": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.23289054751380497,
+                            0.13358986880413562
+                        ],
+                        [
+                            0.19883,
+                            0.134738
+                        ],
+                        [
+                            0.19932545248619507,
+                            0.14943613119586435
+                        ],
+                        [
+                            0.233386,
+                            0.148288
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": 4.09
+        },
+        "total_tax": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.349282,
+                            0.23598
+                        ],
+                        [
+                            0.382243,
+                            0.235604
+                        ],
+                        [
+                            0.3821141464796954,
+                            0.22430841254584616
+                        ],
+                        [
+                            0.3491531464796953,
+                            0.22468441254584615
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": 0.41
+        },
+        "line_items": {
+            "items": [
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "quantity": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.13025,
+                                            0.164471
+                                        ],
+                                        [
+                                            0.090909,
+                                            0.165977
+                                        ],
+                                        [
+                                            0.09137011802940652,
+                                            0.17802271340961628
+                                        ],
+                                        [
+                                            0.13071111802940652,
+                                            0.17651671340961628
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 1
+                        },
+                        "unit_price": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": 4.09
+                        },
+                        "description": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.050321396254398784,
+                                            0.16562453011854528
+                                        ],
+                                        [
+                                            0.18448096764883415,
+                                            0.16162670505273743
+                                        ],
+                                        [
+                                            0.18412194433275209,
+                                            0.14957855051537883
+                                        ],
+                                        [
+                                            0.049962372938316714,
+                                            0.1535763755811867
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": "BUCOVINA PLATA 1L"
+                        },
+                        "total_price": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": 4.09
+                        }
+                    }
+                },
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "quantity": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.09065459341757094,
+                                            0.151679936178633
+                                        ],
+                                        [
+                                            0.129718,
+                                            0.150922
+                                        ],
+                                        [
+                                            0.12944040658242909,
+                                            0.13661506382136696
+                                        ],
+                                        [
+                                            0.090377,
+                                            0.137373
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 1
+                        },
+                        "unit_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.232855,
+                                            0.161084
+                                        ],
+                                        [
+                                            0.199894,
+                                            0.162213
+                                        ],
+                                        [
+                                            0.2003317826651079,
+                                            0.17499400480480246
+                                        ],
+                                        [
+                                            0.23329278266510792,
+                                            0.17386500480480246
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 0.5
+                        },
+                        "description": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.0521,
+                                            0.191569
+                                        ],
+                                        [
+                                            0.17894008770629438,
+                                            0.18817364579333254
+                                        ],
+                                        [
+                                            0.1786229576984112,
+                                            0.17632663497625412
+                                        ],
+                                        [
+                                            0.05178286999211681,
+                                            0.17972198918292157
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": "GARANTIE AMBALAJ"
+                        },
+                        "total_price": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.3803655103112157,
+                                            0.17011133027656822
+                                        ],
+                                        [
+                                            0.347156,
+                                            0.170869
+                                        ],
+                                        [
+                                            0.3474394896887844,
+                                            0.18329466972343178
+                                        ],
+                                        [
+                                            0.380649,
+                                            0.182537
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": 0.5
+                        }
+                    }
+                }
+            ],
+            "confidence": null
+        },
+        "total_amount": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.318979,
+                            0.21114
+                        ],
+                        [
+                            0.38208406948756585,
+                            0.20924784378706401
+                        ],
+                        [
+                            0.381712,
+                            0.196839
+                        ],
+                        [
+                            0.31860693051243416,
+                            0.1987311562129359
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": 4.59
+        },
+        "document_type": {
+            "locations": [],
+            "confidence": null,
+            "value": "expense_receipt"
+        },
+        "supplier_name": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.27431997920504647,
+                            0.04052271036145042
+                        ],
+                        [
+                            0.16407470278933456,
+                            0.042315161452530066
+                        ],
+                        [
+                            0.16427883111974054,
+                            0.05487013956148827
+                        ],
+                        [
+                            0.2745241075354524,
+                            0.05307768847040863
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "MEGA IMAGE SRL"
+        },
+        "tips_gratuity": {
+            "locations": [],
+            "confidence": null,
+            "value": null
+        },
+        "receipt_number": {
+            "locations": [],
+            "confidence": null,
+            "value": null
+        },
+        "supplier_address": {
+            "locations": [
+                {
+                    "polygon": [
+                        [
+                            0.07147641900938716,
+                            0.08374538025937107
+                        ],
+                        [
+                            0.3702650740000735,
+                            0.07794806888293808
+                        ],
+                        [
+                            0.36975110100868885,
+                            0.05145832409854562
+                        ],
+                        [
+                            0.07096244601800249,
+                            0.05725563547497861
+                        ]
+                    ],
+                    "page": 0
+                }
+            ],
+            "confidence": null,
+            "value": "MUNICIPIUL BUCURESTI, SECTORUL 2 SOS. STEFAN CEL MARE, NR. 224, BLOC 43"
+        },
+        "purchase_category": {
+            "locations": [],
+            "confidence": null,
+            "value": "food"
+        },
+        "purchase_subcategory": {
+            "locations": [],
+            "confidence": null,
+            "value": "groceries"
+        },
+        "supplier_phone_number": {
+            "locations": [],
+            "confidence": null,
+            "value": null
+        },
+        "supplier_company_registration": {
+            "items": [
+                {
+                    "locations": [],
+                    "confidence": null,
+                    "fields": {
+                        "type": {
+                            "locations": [],
+                            "confidence": null,
+                            "value": "VAT"
+                        },
+                        "number": {
+                            "locations": [
+                                {
+                                    "polygon": [
+                                        [
+                                            0.359383,
+                                            0.077907
+                                        ],
+                                        [
+                                            0.2883356248801737,
+                                            0.07979805972499912
+                                        ],
+                                        [
+                                            0.28867599999999993,
+                                            0.092586
+                                        ],
+                                        [
+                                            0.3597233751198262,
+                                            0.09069494027500088
+                                        ]
+                                    ],
+                                    "page": 0
+                                }
+                            ],
+                            "confidence": null,
+                            "value": "R06719278"
+                        }
+                    }
+                }
+            ],
+            "confidence": null
+        }
+    },
+    "raw_text": null,
+    "rag": {
+        "retrieved_document_id": null
+    }
+}
